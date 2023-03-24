@@ -16,7 +16,7 @@
   "author": "Voakie <contact@voakie.com> (https://voakie.com/)",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/Voakie/ebcdic-ascii"
+    "url": "https://github.com/Interaction-Gaming/ebcdic-ascii"
   },
   "devDependencies": {
     "@types/jest": "^26.0.13",
